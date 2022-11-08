@@ -1,0 +1,42 @@
+.app {
+    text-align: center;
+    background-color:navy;
+    margin: 5vh 20%;
+    padding: 2vh 0;
+    color: azure;
+    border-radius: 20px;
+    }
+    .todo {
+        font-size: x-large;
+        padding: 2vh 2%;
+    }
+    .checkbox{
+        font-size: x-large;
+        margin: 2vh 2%;
+    }
+    
+    .input{
+    font-size: larger;
+    padding: 5px;
+    margin: 2px;
+    
+    }
+    .btn{
+    color: white;
+    background-color: darkblue;
+    border: 2px solid white;
+    border-radius: 5px;
+    font-size: larger;
+    display: block;
+    padding: 2%;
+    margin: 5vh auto;
+    }
+  
+    .btn:hover{
+      background-color: white;
+      color: darkblue;
+      border: 2px solid darkblue;
+      cursor: pointer;
+    }
+
+    
